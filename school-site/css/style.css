@@ -86,7 +86,7 @@ header, footer {
     font-style: normal;
 }
 
-@font-face{
+@font-face {
     font-family:josefinslab;
     src: url(/fonts/josefinslab-regular.ttf) format('truetype');
     font-weight: normal;
@@ -98,8 +98,8 @@ header, footer {
 
 html{
     font-family: montserrat, Arial, sans-serif; 
-
 }
+
 h1, h2 {
     font-family: josefinslab, Georgia, serif;;
     letter-spacing: 0.125rem;
@@ -140,12 +140,10 @@ figcaption {
 
 a {
     outline: none;
-
 }
 
 a:link, a:visited {
     color: #33658A;
-
 }
 
 a:focus, a:hover {
